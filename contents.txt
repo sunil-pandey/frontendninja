@@ -23,16 +23,25 @@ Week 01
 
 Week 02
 28-Jul-14
+	- Interview questions mining
 29-Jul-14
+	- Answers to interview questions in terms of demonstratable examples
 30-Jul-14
+	- Task extension
 31-Jul-14
+	- Creating JavaScript module and learning closure
 1-Aug-14
+	- Task extended
 
 Week 03
 4-Aug-14
+	- jQuery automatic TOC task, jQuery learnning from examples
 5-Aug-14
+	- feedback survey
 6-Aug-14
+	- bower, knockout introduction
 7-Aug-14
+	- trainer evaluation survey, answers to questions and suggestions
 8-Aug-14
 
 
@@ -154,8 +163,16 @@ https://github.com
 Gist
 https://gist.github.com
 
+Speaker Deck
+http://www.speakerdeck.com
+
 Developer Tools
 Mozilla Firefox, Google Chrome, Internet Explorer
 
 List out technologies from builtwith.com
 https://builtwith.com
+
+KnockoutJS presentations
+https://speakerdeck.com/johnpapa/knockoutjs-teched-na-2012
+https://speakerdeck.com/scottmessinger/knockoutjs-lightning-talk
+https://speakerdeck.com/gregj/getting-started-with-knockout-dot-js
